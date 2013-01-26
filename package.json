@@ -1,7 +1,7 @@
 {
     "name" : "FontAwesome",
     "version" : "3.0.2",
-
+    "private" : true,
     "author" : "Dave <dave@davegandy.com>",
     "description" : "the iconic font designed for use with Twitter Bootstrap",
 
